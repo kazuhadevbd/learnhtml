@@ -1,6 +1,13 @@
 <html>
-<head>
+
 <title>Welcome to New Project</title>
 </head>
-<body>Hi, This is my first HTML porject</body>
+, This is my first HTML porject</body>, This is my first HTML porject</body>, This is my first HTML porject</body>
+
+<html>
+    <head>
+        <body>
+            Hi this is my first prpject
+        </body>
+    </head>
 </html>
